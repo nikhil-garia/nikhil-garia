@@ -16,41 +16,41 @@ cybersecurity practices to protect organizations from cyber threats and attacks.
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GetARemoteJob&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/er-nikhil-garia/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<!-- <img src="http://hits.dwyl.com/er-nikhil-garia/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
+<!-- <img src="http://hits.dwyl.com/nikhil-garia/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
+<!-- <img src="http://hits.dwyl.com/nikhil-garia/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://x.com/nikhilgaria" ><img src="https://img.shields.io/twitter/follow/nikhilgaria.svg?style=social" /> </a>
 <p align="center"> 
-  <a href="https://linkedin.com/in/er-nikhil-garia">
+  <a href="https://linkedin.com/in/nikhil-garia">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://linktr.ee/nikhil_garia">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome" />
   </a>
-  <a href="https://github.com/er-nikhil-garia">
+  <a href="https://github.com/nikhil-garia">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
   </a>
 </p>
-<!--<a href="https://github.com/er-nikhil-garia/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/er-nikhil-garia/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/er-nikhil-garia/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/er-nikhil-garia/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/er-nikhil-garia/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/er-nikhil-garia/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/er-nikhil-garia/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/er-nikhil-garia/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/er-nikhil-garia/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/er-nikhil-garia/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/er-nikhil-garia/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/er-nikhil-garia/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>-->
+<!--<a href="https://github.com/nikhil-garia/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/nikhil-garia/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/nikhil-garia/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/nikhil-garia/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/nikhil-garia/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/nikhil-garia/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/nikhil-garia/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/nikhil-garia/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/nikhil-garia/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nikhil-garia/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/nikhil-garia/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/nikhil-garia/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>-->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=er-nikhil-garia&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=nikhil-garia&color=blue" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 <p align="center">
-  <a href="https://github.com/er-nikhil-garia/DDOS-Attack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=er-nikhil-garia&repo=DDOS-Attack&theme=tokyonight" />
+  <a href="https://github.com/nikhil-garia/DDOS-Attack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil-garia&repo=DDOS-Attack&theme=tokyonight" />
   </a>
-  <a href="https://github.com/er-nikhil-garia/SMS-Bombing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=er-nikhil-garia&repo=SMS-Bombing&theme=tokyonight" />
+  <a href="https://github.com/nikhil-garia/SMS-Bombing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil-garia&repo=SMS-Bombing&theme=tokyonight" />
   </a>
 </p>
 
@@ -100,19 +100,19 @@ cybersecurity practices to protect organizations from cyber threats and attacks.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=er-nikhil-garia&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-nikhil-garia&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil-garia&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-garia&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=er-nikhil-gariaa&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhil-gariaa&theme=tokyonight" height="180" />
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=er-nikhil-garia&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil-garia&theme=tokyo-night" />
 </p>
 
 ---
@@ -129,4 +129,4 @@ cybersecurity practices to protect organizations from cyber threats and attacks.
 
 ---
 
-<h4 align="center">⭐️ From <a href="https://github.com/er-nikhil-garia">Nikhil Garia</a></h4>
+<h4 align="center">⭐️ From <a href="https://github.com/nikhil-garia">Nikhil Garia</a></h4>
