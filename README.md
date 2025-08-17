@@ -25,6 +25,9 @@ cybersecurity practices to protect organizations from cyber threats and attacks.
   <a href="https://linkedin.com/in/nikhil-garia">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
+  <a href="https://instagram.com/in/er.nikhil_garia">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=instagram" />
+  </a>
   <a href="https://linktr.ee/nikhil_garia">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome" />
   </a>
