@@ -130,7 +130,7 @@ cybersecurity practices to protect organizations from cyber threats and attacks.
   <img src="https://img.shields.io/badge/DevSecOps-Certified%20Professional-00C9FF?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
 
-## Contribute
+## 🎭 Contribute
 
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
