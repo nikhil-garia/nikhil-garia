@@ -23,7 +23,10 @@ cybersecurity practices to protect organizations from cyber threats and attacks.
 <a href="https://x.com/nikhilgaria" ><img src="https://img.shields.io/twitter/follow/nikhilgaria.svg?style=social" /> </a>
 <p align="center"> 
   <a href="https://linkedin.com/in/nikhil-garia">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=Linkedin" />
+  </a>
+  <a href="https://instagram.com/in/er.nikhil_garia">
+    <img src="https://img.shields.io/badge/4.5k-Connect?style=social&logo=Instagram"/>
   </a>
   <a href="https://linktr.ee/nikhil_garia">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome" />
@@ -127,6 +130,12 @@ cybersecurity practices to protect organizations from cyber threats and attacks.
   <img src="https://img.shields.io/badge/DevSecOps-Certified%20Professional-00C9FF?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
 
+## Contribute
+
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
+
 ---
 
 <h4 align="center">⭐️ From <a href="https://github.com/nikhil-garia">Nikhil Garia</a></h4>
+
