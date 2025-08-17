@@ -118,8 +118,8 @@ cybersecurity practices to protect organizations from cyber threats and attacks.
 ---
 
 ## 🏅 Achievements  
-- 🟢 HackTheBox – Rooted **35+ machines** (Easy → Insane)  
-- 🔴 TryHackMe – Ranked in **Top 1%** with 50+ completed labs  
+  🟢 HackTheBox – Rooted **35+ machines** (Easy → Insane)  
+  🔴 TryHackMe – Ranked in **Top 1%** with 50+ completed labs  
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Certified-Security%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
