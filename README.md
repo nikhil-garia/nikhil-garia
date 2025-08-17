@@ -23,10 +23,10 @@ cybersecurity practices to protect organizations from cyber threats and attacks.
 <a href="https://x.com/nikhilgaria" ><img src="https://img.shields.io/twitter/follow/nikhilgaria.svg?style=social" /> </a>
 <p align="center"> 
   <a href="https://linkedin.com/in/nikhil-garia">
-    <img src="https://img.shields.io/badge?style=flat" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=Linkedin" />
   </a>
   <a href="https://instagram.com/in/er.nikhil_garia">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=instagram" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=" />
   </a>
   <a href="https://linktr.ee/nikhil_garia">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome" />
