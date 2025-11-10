@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-  <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hi, I'm Nikhil</h1> 
+  <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hi, I'm Nikhil Garia</h1> 
 <!-- Profile Header --> 
 <!-- Typing Intro -->
 <p align="center">
