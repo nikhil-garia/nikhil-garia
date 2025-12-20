@@ -14,7 +14,7 @@ cybersecurity practices to protect organizations from cyber threats & attacks.
 </p>
 <div align="center">
 <p align="center"> 
-  <a href="https://linkedin.com/in/nikhil-garia">
+  <a href="https://linkedin.com/in/er-nikhil-garia">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=Linkedin" />
   </a>
   <a href="https://instagram.com/in/er.nikhil_garia">
