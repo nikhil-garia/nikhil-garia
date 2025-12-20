@@ -4,7 +4,7 @@
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Cloud+Architect;Cybersecurity+Analyst"><p>DevSecOps Engineer with over 3.8 years of experience integrating security across CI/CD pipelines, cloud-native infrastructure, and
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;DevSecOps+Engineer;Cloud+Architect;"><p>DevSecOps Engineer with over 3.8 years of experience integrating security across CI/CD pipelines, cloud-native infrastructure, and
 software development lifecycles. Expertise in AWS, GCP cloud platforms, automation using Terraform or Ansible. Proven ability to
 remediate high-impact security vulnerabilities, optimize cloud infrastructure. Committed to continuous learning and advancing
 cybersecurity practices to protect organizations from cyber threats & attacks.
