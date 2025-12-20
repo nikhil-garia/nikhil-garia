@@ -35,8 +35,8 @@ cybersecurity practices to protect organizations from cyber threats & attacks.
 
 ## 📂 Featured Projects
 <p align="center">
-  <a href="https://github.com/nikhil-garia/DDOS-Attack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil-garia&repo=DDOS-Attack&theme=tokyonight" />
+  <a href="https://github.com/nikhil-garia/mean-private-chat-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil-garia&repo=mean-private-chat-app&theme=tokyonight" />
   </a>
   <a href="https://github.com/nikhil-garia/SMS-Bombing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil-garia&repo=SMS-Bombing&theme=tokyonight" />
